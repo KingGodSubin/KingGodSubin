@@ -47,4 +47,4 @@
   [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 </div>
 
-[instagram]: [https://instagram.com/_sokuri](https://www.instagram.com/kinggodsubin/)https://www.instagram.com/kinggodsubin/
+[instagram]: https://www.instagram.com/kinggodsubin/
