@@ -7,6 +7,8 @@
 
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KingGodSubin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://github-readme-stats.vercel.app/api?username=KingGodSubin&show_icons=true&theme=algolia" alt="GitHub Stats">&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingGodSubin&layout=compact&theme=algolia" alt="Top Languages">
 
@@ -27,6 +29,7 @@
   <br>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <br>
@@ -36,6 +39,9 @@
   <img src="https://img.shields.io/badge/Amazone AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white">
   <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=Gunicorn&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 </div>
 
 <br>
