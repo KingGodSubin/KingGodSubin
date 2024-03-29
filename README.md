@@ -10,7 +10,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KingGodSubin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KingGodSubin&show_icons=true&theme=algolia" alt="GitHub Stats">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=KingGodSubin&show_icons=true&theme=algolia" alt="GitHub Stats">&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingGodSubin&layout=compact&theme=algolia" alt="Top Languages">
 
 <br>
