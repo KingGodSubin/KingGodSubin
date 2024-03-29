@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=KimSubin&fontSize=55)
-![header](https://capsule-render.vercel.app/api?type=slice&text=hello)
 
 ### 🌈 Hello there! I'm KimSubin👋.
 <ul>
