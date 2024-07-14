@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=GitHub&logoColor=white">
 </div>
 
 <br>
